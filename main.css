@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 0, 212);
+    margin: 0;
+}
+header{
+    margin: 15px;
+    padding-left:250px;
+    background-color:  green;
+    margin-bottom: 0px;
+   
+}
+
+h1{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: red;
+}
+
+div{
+    color: yellow;
+    background-color: brown;
+    width: 75px;
+    height: 100px;
+    padding-top: 20px;
+    margin-left: 270px;
+}
+
